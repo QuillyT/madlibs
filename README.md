@@ -6,7 +6,9 @@ madlibs
 Follow this link for a working version: [Madlibs](http://www.quentintai.com/projects/madlibs/sandbox/)
 
 ... because I don't have many instructions on the site I will put them here.
+
 1. Create an account.
+
 2. You may then click random or select to start a game. 
 
 And there you go! 
