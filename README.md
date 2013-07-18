@@ -9,11 +9,14 @@
 
 And there you go! 
 
-* Random will start a game with a random user. 
-* Select will open a modal that lists out all the existing users.
+* The "Random" button will start a game with a random user. 
+* The "Select" button will open a modal that lists out all the existing users for you to start a game with.
 * Finished games will be under old games.
 * Unfinished games will be on top.
-* Games polled so updates happen every 3 or 5 seconds.
-* When a game is open, it constantly refreshes as well. So if it isn't your turn to go, it will refresh every 3 seconds.
+* Game Lists poll. Updates happen every 5 seconds.
+* When a game is open, it updates as well. So if it isn't your turn to go, it will poll every 3 seconds.
+* If a game is highlighted, it is your turn to go in that game.
 
 So just... a heads up. This is the first time I've worked with MySQL and php.
+
+There currently is no notification system. 
